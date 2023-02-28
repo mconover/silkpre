@@ -2,7 +2,7 @@
 
 setlocal EnableExtensions EnableDelayedExpansion
 
-set HUNTER_BASE=C:\.hunter\_Base\10738b5\5b6b14d\000d2c7
+set HUNTER_BASE=C:\.hunter\_Base\4942227\319521b\8e531a4
 set VCPKG_DEFAULT_HOST_TRIPLET=x64-windows
 set CMAKE_ARGS=
 
